@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/deisgnthe.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/gte_pass_word.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/hh.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/popupbac.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/pp_ee_rr.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/shadowedit.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/sorround.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/drawable/us_ic.xml" value="0.1275" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/layout/activity_after_login_profile.xml" value="0.2" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/layout/activity_final_tally.xml" value="0.25" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/layout/activity_get_tallied.xml" value="0.22" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/layout/activity_map_decider.xml" value="0.2" />
+        <entry key="..\:/Users/nency/AndroidStudioProjects/META/app/src/main/res/layout/activity_pop_first_screen.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
